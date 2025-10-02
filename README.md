@@ -17,7 +17,7 @@
         <td style="background-color:rgb(154, 205, 50);">Yellow Green</td>
         <td style="background-color:rgb(173, 216, 230);">Light Blue</td>
         <td style="background-color:#D6E024;">yellow</td>
-        <td style="color:(255,255,255);" style="background-color:rgb(0,0,0);">Black</td>
+        <td style="color:#FFFFFF;" style="background-color:rgb(0,0,0);">Black</td>
       </tr>
       <tr>
         <td>Hex Value</td>
