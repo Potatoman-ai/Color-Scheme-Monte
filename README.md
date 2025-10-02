@@ -16,8 +16,8 @@
     <tbody>
       <tr>
         <td style="background-color:rgb(154, 205, 50);">Green</td>
-        <td>Blue</td>
-        <td>yellow</td>
+        <td style="background-color:rgb(173, 216, 230);">Blue</td>
+        <td style="background-color:rgb(154, 205, 50);">yellow</td>
       </tr>
       <tr>
         <td></td>
