@@ -9,7 +9,7 @@
   <table>
   <thead>
     <tr>
-      <th colspan="3">Parrot</th>
+      <th colspan="4">Parrot</th>
     </tr>
   </thead>
     <tbody>
@@ -17,6 +17,7 @@
         <td style="background-color:rgb(154, 205, 50);">Yellow Green</td>
         <td style="background-color:rgb(173, 216, 230);">Light Blue</td>
         <td style="background-color:#D6E024;">yellow</td>
+        <td style="background-color:rgb(0,0,0);">Black</td>
       </tr>
       <tr>
         <td></td>
