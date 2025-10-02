@@ -9,7 +9,7 @@
   <table>
   <thead>
     <tr>
-      <th colspan="4">Parrot</th>
+      <th style="font-family: 'Times New Roman', serif;" colspan="4">Parrot</th>
     </tr>
   </thead>
     <tbody>
