@@ -15,27 +15,27 @@
     <tbody>
       <tr>
         <td style="background-color:rgb(154, 205, 50);">Yellow Green</td>
-        <td style="background-color:rgb(173, 216, 230);">Light Blue</td>
+        <td style="background-color:rgb(95, 158, 160);">Cadet Blue</td>
         <td style="background-color:#D6E024;">yellow</td>
-        <td style="background-color:rgb(0,0,0);" style="color:rbg(255, 255, 255);" >Black</td>
+        <td style="background-color:rgb(0,0,0);">Black</td>
       </tr>
       <tr>
-        <td>Hex Value</td>
-        <td>Hex Value</td>
-        <td>Hex Value</td>
-        <td>Hex Value</td>
+        <td>Hex Value #9ACD32</td>
+        <td>Hex Value #5F9EA0</td>
+        <td>Hex Value #FFFF00</td>
+        <td>Hex Value #000000</td>
       </tr>
       <tr>
-        <td>rgb value</td>
-        <td>rgb value</td>
-        <td>rgb value</td>
-        <td>rgb value</td>
+        <td>rgb value (154, 205, 50)</td>
+        <td>rgb value (95, 158, 160)</td>
+        <td>rgb value (255, 255, 0)</td>
+        <td>rgb value (0, 0, 0)</td>
       </tr>
       <tr>
-        <td>hsl value</td>
-        <td>hsl value</td>
-        <td>hsl value</td>
-        <td>hsl value</td>
+        <td>hsl value (80, 61%, 50%)</td>
+        <td>hsl value (181.8, 25.5%, 50%)</td>
+        <td>hsl value (60, 100%, 50%)</td>
+        <td>hsl value(0, 0%, 0%)</td>
       </tr>
     </tbody>
   </table>
