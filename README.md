@@ -20,22 +20,22 @@
         <td style="background-color:rgb(0,0,0);">Black</td>
       </tr>
       <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Hex Value</td>
+        <td>Hex Value</td>
+        <td>Hex Value</td>
+        <td>Hex Value</td>
       </tr>
       <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>rgb value</td>
+        <td>rgb value</td>
+        <td>rgb value</td>
+        <td>rgb value</td>
       </tr>
       <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>hsl value</td>
+        <td>hsl value</td>
+        <td>hsl value</td>
+        <td>hsl value</td>
       </tr>
     </tbody>
   </table>
