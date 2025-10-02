@@ -1,5 +1,4 @@
 # Color-Scheme-Monte
-<!DOCTYPE html>
 <html lang="en-US">
   <body>
     <img src="https://www.publicdomainpictures.net/pictures/490000/velka/papegaai-vogel-tropische-vogel.jpg"
